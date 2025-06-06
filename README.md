@@ -13,12 +13,14 @@ The rapid decline of wildlife populations demands innovative solutions. This pro
  Develop AI-driven insights for effective conservation planning
 
 🛠 Tools & Technologies
+
  Python – Core programming language for data handling
  Pandas & NumPy – Efficient data processing and manipulation
  Matplotlib & Seaborn – Engaging visualizations for data exploration
  Scikit-Learn – Machine learning models for prediction and classification
  
 🤖 Machine Learning Models
+
  Regression Models: Linear Regression estimates lifespan based on animal traits
  Classification Models: Logistic Regression, Decision Tree, and SVM predict conservation status
  Evaluation Metrics: Accuracy, Confusion Matrix, and Classification Report for model assessment
