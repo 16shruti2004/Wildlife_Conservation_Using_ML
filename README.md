@@ -47,7 +47,7 @@ The decline of wildlife populations calls for innovative solutions. This project
 ## 📬 Contact  
 Feel free to connect or provide feedback!
 📧 Email: [helashruti13@gmail.com]
-🌐 LinkedIn: [Shruti Kumari Hela](www.linkedin.com/in/shruti-kumari-hela-a90432215)  
+🌐 LinkedIn: [Shruti Kumari Hela](https://www.linkedin.com/in/shruti-kumari-hela-a90432215/)
 
 🐾 **Preserving Wildlife, One Algorithm at a Time!** 🚀  
 
